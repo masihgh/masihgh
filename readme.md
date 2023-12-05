@@ -1,7 +1,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masihgh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=masihgh&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masihgh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masihgh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://www.codewars.com/users/Masihgh/badges/large)
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
